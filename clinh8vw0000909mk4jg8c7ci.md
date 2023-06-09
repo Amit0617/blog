@@ -1,8 +1,9 @@
 ---
-title: "Blockchain is FAD | Reacting to technical people opinions"
+title: "Blockchain is FAD"
 datePublished: Thu Jun 08 2023 18:33:38 GMT+0000 (Coordinated Universal Time)
 cuid: clinh8vw0000909mk4jg8c7ci
-slug: blockchain-is-fad-reacting-to-technical-people-opinions
+slug: blockchain-is-fad
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686312480970/58959553-f8a7-4565-8844-d5e42ab76a7e.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1686249136540/ebd2c3a8-7ad7-4524-8a37-8150609b32e3.png
 tags: software-development, technology, blockchain, ethereum, web3
 
