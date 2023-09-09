@@ -39,7 +39,7 @@ Apart from exchanging ethers from your friends, this network can have applicatio
 
 Smart contracts can be written in several programming languages, such as Solidity, Vyper, Yul etc. After a smart contract is deployed, it remains on the blockchain and executes as programmed whenever poked (or called). Like any piece of code, a contract can have multiple functions that perform computations. These functions can be called using `eth_call` method. Sending a request to an RPC URL with the appropriate parameters will invoke a function of a specific contract. like
 
-```plaintext
+```bash
 curl -X POST --data '{"jsonrpc":"2.0","method":"eth_call","params":[{ 
 "from": "0x1923f626bb8dc025849e00f99c25fe2b2f7fb0db", 
 "to": "0x07a565b7ed7d7a678680a4c162885bedbb695fe0",
