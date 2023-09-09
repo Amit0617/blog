@@ -9,7 +9,7 @@ tags: web-development, rest-api, ethereum, rpc, web3
 
 Whenever I am introducing people to some "blockchain stuff", or come out as someone who understands it, people look at my age, and tend to ask - "How did you learn that?"
 
-Their belief is that - resources for learning about blockchains are rare. To be honest, I am sure even at this moment there would be enough content that a human wouldn't be able to consume all of that in his whole life. However, it still looks rare mainly because you won't find much valuable things that get indexed on search engines, mostly because very few people are searching for them and this way a low market and hence lower requirements of improvements compared to other much popular things like MERN stack for web development.
+Their belief is that - resources for learning about blockchains are rare. To be honest, I am sure even at this moment there would be enough content that a human wouldn't be able to consume all of that in his whole life. However, it still looks rare mainly because you won't find many valuable things that get indexed on search engines, mostly because very few people are searching for them and this way a low market and hence lower requirements of improvements compared to other much popular things like MERN stack for web development.
 
 > If you start from the beginning and follow their growth and evolution, you will be able to keep up with them no matter how complex they become.
 
@@ -55,4 +55,4 @@ We wanted to develop an easy-to-use interface so that users could interact with 
 
 So in that order, you don't have to know everything for working on a subset of it. Just having enough of the abstraction in the mind for various concepts to build familiarity with different terms of that domain, as even black boxes is enough. The development of easy-to-use interfaces and libraries has made it easier for developers to create applications that can interact with the blockchain, without needing to understand its underlying workings.
 
-If your curiosity arises to learn more about Web3 or Ethereum development, congratulations! People have paid me to create technical content for learning Ethereum development. I would be creating a series of articles to cover the most technical part of it for free! This was the peak of theoretical talk I could have done ever.
+If your curiosity arises to learn more about Web3 or Ethereum development, congratulations! People have paid me to create technical content for learning Ethereum development. I would be creating a series of articles to cover the most technical part of it for free! This was the peak of theoretical talk I could have done ever. Subscribe to get alerts.
