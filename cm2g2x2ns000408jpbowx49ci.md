@@ -3,6 +3,7 @@ title: "Draining Null Address: An Ethereum experiment"
 datePublished: Sat Oct 19 2024 11:32:15 GMT+0000 (Coordinated Universal Time)
 cuid: cm2g2x2ns000408jpbowx49ci
 slug: draining-null-address-an-ethereum-experiment
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729340488358/287720dc-4a18-4787-9d11-a3c77fa64818.png
 tags: hacking, ethereum, web3
 
 ---
